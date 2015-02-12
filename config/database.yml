@@ -60,7 +60,7 @@ development:
 #  database: travis-test_test
 test:
   adapter: postgresql
-  database: travis_ci_test
+  database: travis-test_ci
   username: postgres
 
 
